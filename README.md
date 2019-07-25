@@ -1,2 +1,3 @@
 # py-get-started
-First Python Project
+
+This is the first project after installing Pycharm in Ubuntu
